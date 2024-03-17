@@ -1,0 +1,89 @@
+! general
+Xft.autohint: 0
+Xft.antialias: true
+Xft.rgba: rgb
+Xft.hinting: true
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcdlight
+
+! dwm
+dwm.font:	Noto Sans:style:regular:pixelsize=17
+
+dwm.normfgcolor: #dde1e6
+dwm.normbgcolor: #161616
+dwm.normbordercolor: #393939
+dwm.normfloatcolor: #393939
+
+dwm.selfgcolor: #161616
+dwm.selbgcolor: #dde1e6
+dwm.selbordercolor: #dde1e6
+dwm.selfloatcolor: #dde1e6
+
+dwm.titlenormfgcolor: #dde1e6
+dwm.titlenormbgcolor: #161616
+dwm.titlenormbordercolor: #161616
+dwm.titlenormfloatcolor: #161616
+
+dwm.titleselfgcolor: #161616
+dwm.titleselbgcolor: #dde1e6
+dwm.titleselbordercolor: #dde1e6
+dwm.titleselfloatcolor: #dde1e6
+
+dwm.tagsnormfgcolor: #dde1e6
+dwm.tagsnormbgcolor: #161616
+dwm.tagsnormbordercolor: #161616
+dwm.tagsnormfloatcolor: #161616
+
+dwm.tagsselfgcolor: #161616
+dwm.tagsselbgcolor: #dde1e6
+dwm.tagsselbordercolor: #dde1e6
+dwm.tagsselfloatcolor: #dde1e6
+
+dwm.urgfgcolor: #161616
+dwm.urgbgcolor: #ee5396
+dwm.urgbordercolor: #ee5396
+dwm.urgfloatcolor: #ee5396
+
+! dmenu
+dmenu.font:	JetBrainsMono Nerd Font:style:regular:pixelsize=15
+
+! st
+st.font:	JetBrainsMono Nerd Font:style:regular:pixelsize=15
+st.borderpx: 	12
+
+! colorscheme
+*.foreground:   #ffffff
+*.background:   #161616
+*.cursorColor:  #ffffff
+
+! black
+*.color0:       #262626
+*.color8:       #393939
+
+! red
+*.color1:       #ee5396
+*.color9:       #ee5396
+
+! green
+*.color2:       #42be65
+*.color10:      #42be65
+
+! yellow
+*.color3:       #ffe97b
+*.color11:      #ffe97b
+
+! blue
+*.color4:       #33b1ff
+*.color12:      #33b1ff
+
+! magenta
+*.color5:       #ff7eb6
+*.color13:      #ff7eb6
+
+! cyan
+*.color6:       #3ddbd9
+*.color14:      #3ddbd9
+
+! white
+*.color7:       #dde1e6
+*.color15:      #ffffff
